@@ -1,0 +1,48 @@
+﻿// See https://aka.ms/new-console-template for more information
+
+//Console.Write("0| |X\nX|0| \n |X|0\n");
+
+/*Console.WriteLine("Digite o primeiro número: ");
+string stra = Console.ReadLine();
+
+Console.WriteLine("Digite o segundo número: ");
+string strb = Console.ReadLine();
+
+int a = Convert.ToInt32(stra);
+int b = Convert.ToInt32(strb);
+
+Console.WriteLine($"A soma é: {stra + strb}");
+Console.WriteLine($"A soma é: {a + b}");*/
+
+/*Console.WriteLine("Digite o primeiro valor: ");
+string stra = Console.ReadLine();
+
+Console.WriteLine("Digite o operador: ");
+string opr = Console.ReadLine();
+
+Console.WriteLine("Digite o segundo valor: ");
+string strb = Console.ReadLine();
+
+int a = Convert.ToInt32(stra);
+int b = Convert.ToInt32(strb);
+
+int result = 0;
+
+if (opr == "+")
+{
+    result = a + b;
+}
+else if (opr == "-")
+{
+    result = a - b;
+}
+else if (opr == "/")
+{
+    result = a / b;
+}
+else if (opr == "*")
+{
+    result = a * b;
+}
+
+Console.WriteLine($"O resultado da operação é: {result}");*/
